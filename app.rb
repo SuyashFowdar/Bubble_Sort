@@ -1,7 +1,3 @@
-array = [2, 4, 1, 6, 3, 7]
-
-bubble_sort(array)
-
 def bubble_sort(arr)
     done = false
     while done == false
@@ -18,3 +14,7 @@ def bubble_sort(arr)
     end
     puts(arr)
 end
+
+array = [2, 4, 1, 6, 3, 7]
+
+bubble_sort(array)
