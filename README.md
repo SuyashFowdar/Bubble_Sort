@@ -32,10 +32,15 @@ Contributions, issues and feature requests are welcome! Start by:
 ## Author
 
 👤 Suyash Fowdar
-Github: [@Krishnzzz](https://github.com/krishnzzz)
+- Github: [@Krishnzzz](https://github.com/krishnzzz)
+- Twitter: [@twitterhandle](https://twitter.com/Krishnzzz)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/suyash-fowdar-22b89514a/)
 
 👤 Azeez Akinkunmi
 Github: [@kunmi02](https://github.com/kunmi02)
+- GitHub: [@githubhandle](https://github.com/kunmi02)
+- Twitter: [@twitterhandle](https://twitter.com/akinkunmi006)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/akinkunmi006)
 
 ## Show your Support
 Give a ⭐ if you like this project!
