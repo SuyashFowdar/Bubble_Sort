@@ -37,7 +37,6 @@ Contributions, issues and feature requests are welcome! Start by:
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/suyash-fowdar-22b89514a/)
 
 👤 Azeez Akinkunmi
-Github: [@kunmi02](https://github.com/kunmi02)
 - GitHub: [@githubhandle](https://github.com/kunmi02)
 - Twitter: [@twitterhandle](https://twitter.com/akinkunmi006)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/akinkunmi006)

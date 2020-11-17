@@ -12,7 +12,7 @@ def bubble_sort(arr)
       done = false
     end
   end
-  puts(arr)
+  arr
 end
 
 def bubble_sort_by(arr)
@@ -31,11 +31,11 @@ def bubble_sort_by(arr)
       done = false
     end
   end
-  puts(arr)
+  arr
 end
-bubble_sort_by(%w[hi hello hey]) do |left, right|
-  left.length - right.length
-end
-array = [2, 4, 1, 6, 3, 7]
 
-bubble_sort(array)
+puts(bubble_sort_by(%w[hi hello hey]) do |left, right|
+  left.length - right.length
+end)
+
+puts(bubble_sort([2, 4, 1, 6, 3, 7]))
